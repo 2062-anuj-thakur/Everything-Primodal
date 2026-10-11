@@ -1,0 +1,11 @@
+[submodule "Primodal-Os_Resources"]
+	path = Primodal-Os_Resources
+	url = https://github.com/2062-anuj-thakur/Primodal-Os_Resources.git
+[submodule "Android-x86_Kernel"]
+	path = Android-x86_Kernel
+	url = https://github.com/2062-anuj-thakur/Android-x86_Kernel.git
+	branch = kernel-5.15
+[submodule "Android-x86_Manifest"]
+	path = Android-x86_Manifest
+	url = https://github.com/2062-anuj-thakur/Android-x86_Manifest.git
+	branch = oreo-x86
